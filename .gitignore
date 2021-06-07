@@ -1,0 +1,18 @@
+# .gitignore excludes
+*
+
+# .gitignore includes
+!.gitignore
+!LICENSE
+!*.md
+
+!src
+!example
+!example/rtl
+!example/sim
+!example/tb
+!**/*.sh
+!**/*.tcl
+!**/*.md
+!**/Makefile
+!**/*.sv
