@@ -21,7 +21,7 @@ run.sh                  : single bash script to run the whole simulation
 ```
 
 ## How to use:
-1) Run "make" (multiple monitors) or "make run" (single monitor) depending on monitor configuration.
+1) Run `make` (multiple monitors) or `make run` (single monitor) depending on monitor configuration.
 Please refer to "make help" for more details.
 
 ## Notes:
